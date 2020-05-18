@@ -13,6 +13,8 @@
 		176E3EB324723A3500E425B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 176E3EB124723A3500E425B8 /* Main.storyboard */; };
 		176E3EB524723A3700E425B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 176E3EB424723A3700E425B8 /* Assets.xcassets */; };
 		176E3EB824723A3700E425B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 176E3EB624723A3700E425B8 /* LaunchScreen.storyboard */; };
+		176E3EC024723DE100E425B8 /* playingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176E3EBF24723DE100E425B8 /* playingView.swift */; };
+		176E3EC224723DF700E425B8 /* trivia.swift in Sources */ = {isa = PBXBuildFile; fileRef = 176E3EC124723DF700E425B8 /* trivia.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		176E3EB424723A3700E425B8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		176E3EB724723A3700E425B8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		176E3EB924723A3700E425B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		176E3EBF24723DE100E425B8 /* playingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playingView.swift; sourceTree = "<group>"; };
+		176E3EC124723DF700E425B8 /* trivia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trivia.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				176E3EAB24723A3500E425B8 /* AppDelegate.swift */,
 				176E3EAD24723A3500E425B8 /* SceneDelegate.swift */,
 				176E3EAF24723A3500E425B8 /* ViewController.swift */,
+				176E3EBF24723DE100E425B8 /* playingView.swift */,
+				176E3EC124723DF700E425B8 /* trivia.swift */,
 				176E3EB124723A3500E425B8 /* Main.storyboard */,
 				176E3EB424723A3700E425B8 /* Assets.xcassets */,
 				176E3EB624723A3700E425B8 /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				176E3EB024723A3500E425B8 /* ViewController.swift in Sources */,
 				176E3EAC24723A3500E425B8 /* AppDelegate.swift in Sources */,
 				176E3EAE24723A3500E425B8 /* SceneDelegate.swift in Sources */,
+				176E3EC224723DF700E425B8 /* trivia.swift in Sources */,
+				176E3EC024723DE100E425B8 /* playingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
